@@ -1,6 +1,6 @@
 # Different  git rebase approaches
 
-Started playing around different ways to approach rebasing since I got tired having to running through each conflict per commit.
+Started playing around different ways to approach rebasing since I got tired having to runthrough each conflict per commit.
 
 ## Recursive -Xours and 3 way
 
