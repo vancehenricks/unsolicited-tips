@@ -38,4 +38,4 @@ In the example I gave beforehand. The Page components could be done first since 
 
 ## Opt to have a maximum of 1 approval from other team per PR
 
-This reduce the time for approval for a PR, lessens the pressure for a reviewer to get it done in a hurry. In turn gives more time for the revviewer to spot critical issues in the code.
+This reduce the time for approval for a PR, lessens the pressure for a reviewer to get it done in a hurry. In turn gives more time for the reviewer to spot critical issues in the code.
