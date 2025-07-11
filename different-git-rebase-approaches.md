@@ -76,7 +76,7 @@ git push --force-with-lease
 
 ## Copilot with git reset hard
 
-The uses reset hard to just accept everything from main. Then get create a patch and do a 3 way to fix any merge conflicts. Then let copilot create commit message
+This uses reset hard to just accept everything from main. Then get create a patch and do a 3 way to fix any merge conflicts. Then let copilot create commit message
 
 Good
 
