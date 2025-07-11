@@ -80,7 +80,7 @@ The uses reset hard to just accept everything from main. Then get create a patch
 
 Good
 
-* Easy remember and run-through
+* Easy remember
 
 Bad
 
