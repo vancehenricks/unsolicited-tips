@@ -1,2 +1,2 @@
 # unsolicited-tips
-Some tips and tricks learned from my career.
+Some tips and tricks.
