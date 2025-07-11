@@ -1,2 +1,2 @@
 # unsolicited-tips
-Some tips and tricks.
+Some unsolicited tips I write from time to time
