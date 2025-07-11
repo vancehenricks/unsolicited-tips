@@ -100,5 +100,5 @@ git push --force-with-lease
 
 ## References
 
-<https://blog.bigfont.ca/git-rebase-strategy-with-xours/>
-<https://git-scm.com/docs/git-rebase#_merge_strategies>
+* <https://blog.bigfont.ca/git-rebase-strategy-with-xours/>
+* <https://git-scm.com/docs/git-rebase#_merge_strategies>
