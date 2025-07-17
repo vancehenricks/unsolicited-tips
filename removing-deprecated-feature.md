@@ -1,5 +1,7 @@
 # Removing Deprecated Feature
 
+I wrote this guide on some learings when deprecating a feature that were not fully familiar.
+
 ## Opt to have an POC
 
 This will give an idea how we can break down the parts to remove.
@@ -11,7 +13,7 @@ This reduces code review fatigue and focuses the area to test on.
 This also makes it easier to spot that it's our PR that caused the issue.
 
 An example could look like the following;
-where each of the list owuld be its own PR.
+where each of the list would be its own PR.
 
 * Page components
 * Shared components
