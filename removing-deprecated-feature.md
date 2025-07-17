@@ -1,6 +1,6 @@
 # Removing Deprecated Feature
 
-I wrote this guide on some learings when deprecating a feature that were not fully familiar.
+This guide shares some lessons learned from deprecating a feature we were not fully familiar with.
 
 ## Opt to have an POC
 
