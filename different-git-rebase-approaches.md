@@ -80,7 +80,7 @@ This uses reset hard to just accept everything from main. Then get create a patc
 
 Good
 
-* Easy remember
+* Easy to remember
 
 Bad
 
@@ -95,6 +95,31 @@ git apply --3way changes.patch
 git add .
 
 # use copilot to generate the commit messages and commit
+git push --force-with-lease
+```
+
+## Git log with git reset hard
+
+This uses reset hard to just accept everything from main. Then get create a patch and do a 3 way to fix any merge conflicts. Then let git log create the commit message
+
+Good
+
+* Easy to remember
+* All commits message will be consolidated to a single commit
+
+Bad
+
+* Can't preserve commits
+
+```bash
+git switch A-XXX
+git reset --hard origin/main
+git diff origin/main...origin/A-XXX --binary > changes.patch
+git apply --3way changes.patch
+git add .
+
+# use git log to generate the commit messages and commit
+git commit -m "$(git log origin/main..origin/A-XXX --oneline)"
 git push --force-with-lease
 ```
 
