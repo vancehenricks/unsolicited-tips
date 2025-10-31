@@ -37,3 +37,7 @@ When cloning you need to use the alias to tell SSH to use the right secret.
 ```
 git clone git@2nd.github.com:secret-2/repo2.git
 ```
+
+
+## Reference
+https://stackoverflow.com/a/17158985
