@@ -40,4 +40,4 @@ git clone git@2nd.github.com:secret-2/repo2.git
 
 
 ## Reference
-https://stackoverflow.com/a/17158985
+* https://stackoverflow.com/a/17158985
